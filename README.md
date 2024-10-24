@@ -1,0 +1,2 @@
+Descubre, en este caso teórico-práctico desarrollado con python, por qué el conocimiento se ha convertido en el activo más valioso en el entorno empresarial actual y cómo las pymes están en una posición única para aprovecharlo y competir con gigantes corporativos en un mundo donde el tamaño de tu empresa ya no determina el éxito, sino la capacidad para aprovechar el poder del conocimiento. La revolución está aquí, y está al alcance de tu mano. ¿Estás listo para ser parte de ella?
+
